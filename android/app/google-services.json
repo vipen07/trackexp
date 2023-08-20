@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207761780391",
+    "project_id": "trackexp-b89a9",
+    "storage_bucket": "trackexp-b89a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207761780391:android:68e898b067175cd4e63582",
+        "android_client_info": {
+          "package_name": "com.example.trackexp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207761780391-cnallug7t5g9hiu40n8pe70flfu1v9sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqRYrD7vHsGx3co0HhWRumT81hdgc7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207761780391-cnallug7t5g9hiu40n8pe70flfu1v9sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

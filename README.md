@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ![photo_2023-08-21_00-27-51](https://github.com/vipen07/trackexp/assets/84044828/ae2da746-6142-4b44-934a-ad99a0d485f2)
 ![pie_chart](https://github.com/vipen07/trackexp/assets/84044828/94971753-a976-4a67-b6cf-8e32008d002a)
 ![photo_2023-08-21_00-27-57](https://github.com/vipen07/trackexp/assets/84044828/aadc8a12-bf73-4322-8548-094547818acb)
-![pie-3](https://github.com/vipen07/trackexp/assets/84044828/4ab52386-72e9-4cc8-996c-e9a53789859a)
+
 ![Uploading pie-2.png…]()
 ![photo_2023-08-21_00-28-02](https://github.com/vipen07/trackexp/assets/84044828/1d65ae66-36e6-43f3-aabf-1157dd75b0c0)
 ![Uploading photo_2023![photo_2023-08-21_00-27-51](https://github.com/vipen07/trackexp/assets/84044828/392602a9-7edb-41bd-a01e-86a6aa73ef22)
